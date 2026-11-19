@@ -1,0 +1,19 @@
+# dependências (cada um baixa com npm install)
+node_modules/
+
+# senhas e configurações locais: NUNCA mandar pro GitHub
+.env
+
+# arquivos gerados
+dist/
+.expo/
+mobile/android/
+mobile/ios/
+*.apk
+
+# imagens originais (as versões usadas já estão em web/public/img e mobile/assets/img)
+imagens/
+
+# sistema
+.DS_Store
+Thumbs.db

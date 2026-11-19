@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "PinkFlix",
+    "slug": "pinkflix",
+    "scheme": "pinkflix",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#fff0f7",
+    "splash": {
+      "backgroundColor": "#e0218a"
+    },
+    "android": {
+      "package": "com.pinkflix.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#e0218a"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.pinkflix.app"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "A PinkFlix usa suas fotos para colocar a capa dos filmes e jogos.",
+          "cameraPermission": "A PinkFlix usa a câmera para você fotografar a capa dos seus filmes e jogos."
+        }
+      ]
+    ]
+  }
+}
