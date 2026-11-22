@@ -14,7 +14,10 @@
       "package": "com.pinkflix.app",
       "adaptiveIcon": {
         "backgroundColor": "#e0218a"
-      }
+      },
+      "permissions": [
+        "android.permission.RECORD_AUDIO"
+      ]
     },
     "ios": {
       "bundleIdentifier": "com.pinkflix.app"
@@ -28,6 +31,12 @@
           "cameraPermission": "A PinkFlix usa a câmera para você fotografar a capa dos seus filmes e jogos."
         }
       ]
-    ]
+    ],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "b87968a8-7378-4b30-80ad-aa95fcb4fc90"
+      }
+    }
   }
 }
