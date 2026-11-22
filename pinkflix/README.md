@@ -6,9 +6,8 @@ Projeto de PWEB (FATEC) com **versão web (React)** e **versão mobile (React Na
 
 ## 👩‍💻 Integrantes do grupo
 
-- NOME COMPLETO 1
-- NOME COMPLETO 2
-- NOME COMPLETO 3
+- Giovanna Samille Gonçalves da Silva
+- Bruna Luiza Fortes Marques
 
 ---
 
