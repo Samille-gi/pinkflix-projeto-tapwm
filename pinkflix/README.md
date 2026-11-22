@@ -11,6 +11,12 @@ Projeto de PWEB (FATEC) com **versão web (React)** e **versão mobile (React Na
 
 ---
 
+## 🌐 Projeto publicado
+
+- **Versão Web:** https://pinkflix-projeto-tapwm.vercel.app/
+- **API:** https://pinkflix-api.onrender.com
+- **Versão Mobile:** disponível para download na seção Releases deste repositório.
+
 ## 🔑 Release: configurações para teste
 
 | E-mail | Senha | O que tem |
